@@ -4,7 +4,7 @@ import tkinter
 window = tkinter.Tk()
 window.title("login form")
 window.geometry('420x550')
-# window.configure(bg='#333333')
+# window.configure(bg='#333334')
 
 #geometry widget manager are pack, place, grid
 label = tkinter.label(window, text="Login")
