@@ -1,0 +1,44 @@
+body{
+    background-color: brown;
+    background-image: url("assets/background1.jpg");
+    background-size:cover;
+    
+}
+
+h1{
+    color: rgb(116, 28, 224);
+    font-family: bold;
+    font-size: 25px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+}
+table {
+    width: 400px;
+    caption-side: top;
+    
+    
+}
+th{
+    text-align: left;
+}
+
+th, td {
+    border: spacing 5px;
+    padding: 4px;
+}
+
+
+tr:nth-child(even) {
+    background-color: aquamarine;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(152, 112, 189);
+}
+   
