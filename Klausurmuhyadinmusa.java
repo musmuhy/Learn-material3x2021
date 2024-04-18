@@ -18,7 +18,7 @@ public class Klausurmuhyadinmusa {
         System.out.println("6.C");
         System.out.println("7.A");
         System.out.println("8.B");
-        System.out.println("9.C");
+        system.out.println("9.C");
         System.out.println("10.B");
         System.out.println("11.C");
         System.out.println("12.C");
