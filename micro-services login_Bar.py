@@ -7,7 +7,7 @@ window.geometry('420x550')
 # window.configure(bg='#333334')
 
 #geometry widget manager are pack, place, grid
-label = tkinter.label(window, text="Login")
+label = tkinter.label(window, text="login")
 label.grid(row=0, column=0)
 
 #creating widget
