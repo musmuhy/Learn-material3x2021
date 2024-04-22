@@ -10,7 +10,7 @@ public class Klausurmuhyadinmusa {
 
         // Printing the answers as they are
         System.out.println("\nAnswers:");
-        System.out.println("1.C");
+        System.out.println("1.c");
         System.out.println("2.B");
         System.out.println("3.A");
         System.out.println("4.C");
