@@ -1,12 +1,13 @@
 public class Klausurmuhyadinmusa {
     public static void main(String[] args) {
         String name = "Muhyadin Musa";
-        String klasse = "FAH335";
+        String klasse = "FAH35";
         String module = "JCA1 Klausur";
 
         System.out.println("Name = " + name);
         System.out.println("Klasse = " + klasse);
         System.out.println("Module = " + module);
+        
 
         // Printing the answers as they are
         System.out.println("\nAnswers:");
