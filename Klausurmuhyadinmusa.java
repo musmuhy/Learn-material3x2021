@@ -1,7 +1,7 @@
 public class Klausurmuhyadinmusa {
     public static void main(String[] args) {
         String name = "Muhyadin Musa";
-        String klasse = "FAH35";
+        String klasse = "FAH36";
         String module = "JCA1 Klausur";
 
         System.out.println("Name = " + name);
