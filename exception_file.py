@@ -9,7 +9,7 @@ def f():
 
     except PermissionError as pe:  # keine Leseberechtigung
         print('there is no read access')
-    except FileNotFoundError as fne:
+    except FileNotfoundError as fne:
         print('File does not exist')
     except OSError as ose:
         print('there is some IO error')
