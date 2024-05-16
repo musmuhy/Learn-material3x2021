@@ -2,7 +2,7 @@ from konto import Konto
 
 
 class Sparkonto (Konto):
-    def __init__(self, inhaber, kreditInst, kontostand, zinssatz) -> None:
+    def __init__(self, inhaber, kreditInst, kontostand, zinsatz) -> None:
         super().__init__(inhaber, kreditInst, kontostand)
         self.__zinssatz = zinssatz
 
