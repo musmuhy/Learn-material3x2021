@@ -14,7 +14,7 @@ def f():
     except OSError as ose:
         print('there is some IO error')
     finally:
-        fp.close()
+        fp.close(*)
 
 
 def f2():
