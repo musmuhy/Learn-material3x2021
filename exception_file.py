@@ -4,7 +4,7 @@
 
 def f():
     try:
-        fp = open('todo.txt', 'r')
+        fp = open('to do.txt', 'r')
         print(fp.readlines())
 
     except PermissionError as pe:  # keine Leseberechtigung
