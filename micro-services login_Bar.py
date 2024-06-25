@@ -16,7 +16,7 @@ login_button = tkinter.button(window, text="Login")
 username_label = tkinter.label(window, text="Username")
 username_entry = tkinter.Entry(window)
 password_entry = tkinter.Entry(window, show="*")
-password_label = tkinter.label(window, tex ="Password")
+password_label = tkinter.label(window, tex ="password")
 
 
 
