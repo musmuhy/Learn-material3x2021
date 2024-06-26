@@ -20,7 +20,7 @@ password_label = tkinter.label(window, tex ="password")
 
 
 
-#placing widget onscreen
+#In here you are placing widget on-screen
 
  
 login_label.grid = tkinter.button(window, text="Login")
