@@ -7,7 +7,7 @@ app = Flask(__name__)   # Corrected Flask instance creation
 
 @app.route('/', methods=['GET'])
 def home_page():
-    data_set = {'page': 'home' , 'message': 'succesfully loadedthe homepage', 'timestamp': time.time()}
+    data_set = {'page': 'home' , 'message': 'succesfully loaded to the homepage', 'timestamp': time.time()}
     json_dump = json.dumps(data_set)
 
     return json_dump
